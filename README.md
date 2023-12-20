@@ -18,9 +18,8 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Kishan Shree B
+RegisterNumber:23012867
 def squareroot(number):
     guess=number/2.0
     while True:
@@ -31,6 +30,8 @@ def squareroot(number):
 inputnumber=float(input())
 result=squareroot(inputnumber)
 print(f"Square root of the number: {result}")
+*/
+
 ```
 
 ## Output:
